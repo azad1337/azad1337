@@ -1,6 +1,6 @@
-<div align="center">
+
    [![Discord Presence](https://lanyard.cnrad.dev/api/348214095050440706)](https://discord.com/users/348214095050440706)
-</div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
