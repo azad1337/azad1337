@@ -1,7 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azad1337&label=Profile%20views&color=0e75b6&style=flat" alt="azad1337" /> </p>
-
-
 <div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azad1337&label=Profile%20views&color=red&style=plastic" alt="azad1337" /> </p>
+<br>
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/348214095050440706" target"blank_"><img src="https://img.shields.io/badge/Azad1337%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/c/Azad1337" target"blank_"><img src="https://img.shields.io/badge/YouTube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -17,7 +16,7 @@
 <img <img src="https://img.shields.io/badge/PHP%20-111111.svg?&style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
