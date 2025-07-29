@@ -4,7 +4,6 @@
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/348214095050440706" target"blank_"><img src="https://img.shields.io/badge/Azad1337%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/c/Azad1337" target"blank_"><img src="https://img.shields.io/badge/YouTube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://discord.gg/winternovus-470616221876748311" target"blank_"><img src="https://img.shields.io/badge/WinterNovus%20-111111.svg?&style=for-the-badge&logo=lamborghini&logoColor=white"></a>
 <a href="https://github.com/azad1337" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
